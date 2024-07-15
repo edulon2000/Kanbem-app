@@ -1,8 +1,11 @@
-#Kanbem-app
+# Kanbem-app
+![Login](client/src/assets/images/Screenshot 2024-07-15 114251.png)
+![SignUp](client/src/assets/images/nova.png)
+![Boards](client/src/assets/images/fotos.png)
 
 Kanbem-app is a task management application based on the Kanban method. It allows users to create and organize boards with lists of tasks, providing features such as adding, editing, moving, and deleting tasks within these boards. The application is designed to help users manage their tasks efficiently with a visual and flexible approach.
 
-##Technologies Used
+## Technologies Used
 
 - **Frontend:**
   - React
@@ -17,7 +20,7 @@ Kanbem-app is a task management application based on the Kanban method. It allow
   - JWT (JSON Web Tokens)
   - Bcrypt (for password hashing)
 
-##Features
+## Features
 
 - **Boards Management:**
   - Create, Read, Update, Delete boards
@@ -29,7 +32,7 @@ Kanbem-app is a task management application based on the Kanban method. It allow
   - User login/logout
   - JWT-based authentication for secure API access
 
-##Getting Started
+## Getting Started
 
 To run the application locally, follow these steps:
 
@@ -63,15 +66,15 @@ To run the application locally, follow these steps:
 5. **Access the application:**
    Open your web browser and go to `http://localhost:3000` to view the application.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please create an issue or submit a pull request.
 
-##License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-##Acknowledgments
+## Acknowledgments
 
 - This project was created as a practical exercise in full-stack web development using React, Node.js, and MongoDB.
 - Thanks to [Material-UI](https://mui.com/) for providing a great set of UI components.
